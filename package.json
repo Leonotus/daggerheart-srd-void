@@ -1,6 +1,6 @@
 {
-  "name": "daggerheart-srd",
-  "version": "0.1.0",
+  "name": "daggerheart-srd-void",
+  "version": "0.1",
   "description": "The SRD Compendiums for the Daggerheart system",
   "scripts": {
     "pack": "gulp pack",

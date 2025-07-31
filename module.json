@@ -1,7 +1,7 @@
 {
-  "id": "daggerheart-srd",
-  "title": "Daggerheart SRD",
-  "version": "1.0.0",
+  "id": "daggerheart-srd-void",
+  "title": "Daggerheart SRD + Void",
+  "version": "0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -72,8 +72,8 @@
       }
     }
   ],
-  "url": "https://github.com/unofficial-daggerheart/daggerheart-srd",
-  "bugs": "https://github.com/unofficial-daggerheart/daggerheart-srd/issues",
-  "download": "https://github.com/unofficial-daggerheart/daggerheart-srd/releases/latest/download/module.zip",
-  "manifest": "https://github.com/unofficial-daggerheart/daggerheart-srd/releases/latest/download/module.json"
+  "url": "https://github.com/Leonotus/daggerheart-srd-void",
+  "bugs": "https://github.com/Leonotus/daggerheart-srd-void/issues",
+  "download": "https://github.com/Leonotus/daggerheart-srd-void/releases/download/0.1/module.json",
+  "manifest": "https://github.com/Leonotus/daggerheart-srd-void/releases/latest/download/module.json"
 }
