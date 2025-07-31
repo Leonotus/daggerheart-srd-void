@@ -1,0 +1,48 @@
+name: Witch
+type: class
+folder: WpN6W0wyYE3XeeYu
+img: icons/svg/Hat.svg
+system:
+  description: >-
+    <p>Magical practitioners who commune with the forces of nature and entities from realms beyond. <span
+    class="og-omit">Witches call forth their power through craft, rituals, incantations, herbs, stones, candles, and other tools to enact their will and conjure powerful spells.</span></p><p><span
+    class="og-omit"><strong>Starting</strong></span><strong> Evasion:</strong>
+    10</p><p><span class="og-omit"><strong>Starting</strong></span><strong> Hit
+    Points:</strong> 6</p><p><strong>Class Items:</strong> A handcrafted besom or a pouch of animal bones you found in the wild</p><h4 class="h6">Witch's Hope
+    Feature</h4><p><em><strong>Witch's Charm:</strong></em> When you or an ally within Far range rolls a failure, you can spend 3 Hope to change into a success with Fear instead.
+    </p><h4 class="h6">Class Features</h4><p><em><strong>Hex:</strong></em> When a creature causes you or an ally within Close range to mark any number of Hit Points, you can mark a Stress to Hex them.
+     While Hexed, they gain a penalty to their damage thresholds equal to your Spellcast trait and a penalty to their Difficulty equal to your tier. You can only have one target Hexed at a time.</p>
+    <p><em><strong>Commune:</strong></em> During a long rest, you can commune with an entity (an ancestor, deity, spirit, aspect of nature, etc.).
+     Ask them a question, then roll 4d6. If any of the dice have matching values, reference the chart below for the effect. If there are multiple matches, you get more than one effect.</p><ul
+    class="og-list-disc"><li>
+     6: You witness a relevant scene play out.</li><li>
+     5: You see a vision relevant to the answer.</li><li>
+     4: You hear sounds relevant to the answer.</li><li>
+     3: You feel a sensation relevant to the answer.</li><li>
+     2: You smell an odor relevant to the answer.</li><li>
+     1: You taste a flavor relevant to the answer.</li></ul></p>
+  category: ''
+  rarity: ''
+  location: class
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7.1
+  modifiedTime: 1753610580000
+  lastModifiedBy: XpL8vQw2ZMn3RbK5
+_id: ZqT7nPL2XJsuQeV9
+sort: 0
+ownership:
+  default: 0
+  XpL8vQw2ZMn3RbK5: 4
+_key: '!items!ZqT7nPL2XJsuQeV9'

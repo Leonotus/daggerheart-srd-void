@@ -1,0 +1,69 @@
+name: Martial Artist
+type: subclass
+folder: oOPjrB7U160kSlB9
+_id: QxjvLwT5Sn8Ke42b
+img: icons/svg/Yin_yang.svg
+system:
+  description: >-
+    <h6>Foundation Features</h6><p><em><strong>Martial Form:</strong></em> Take the Martial Form sheet. You start with two martial stances from Tier 1.
+     When you reach a new tier, take two additional stances at your tier or lower.</p>
+     <em><strong>Focus</strong></em>: At character creation and at each rest, roll a number of d6 equal to your Instinct. Gain a number of Focus tokens equal to the highest value rolled and place them on this card.
+      Spend a Focus each time you shift into a stance. It lasts until you you take Severe damage, the scene ends, you mark your last Hit Point, or you shift into another stance.</p>
+     <h6>Specialization Features</h6><p><em><strong>Keen Defenses:</strong></em> When you are targeted by an attack, you can spend a Focus to make the adversary’s attack roll have disadvantage.</p>
+    <em><strong>Spirit Blast:</strong></em> Spend a Focus to make an Attack Roll using Instinct against an adversary within Close range.
+     On a success, you deal d20+3 magic damage using your Proficiency and can spend an additional Focus to make them temporarily Vulnerable.</p>
+     <h6>Mastery Feature</h6><p><em><strong>Limit Breaker:</strong></em> Once per rest, you can pull off an unbelievable feat like running across water, leaping between distant rooftops,
+      or scaling the side of a building without needing to roll. When you do, gain a Hope and clear a Stress.</p>
+    <p><h6>Stances</h6>
+    <em><strong> Tier 1</strong></em>:</p>
+    <ul class="og-list-disc"><li><em><strong>Brutal:</strong></em> When you roll the maximum value on a damage die, roll an additional damage die.</li><li>
+    <em><strong>Defensive:</strong></em> Attack rolls against you have disadvantage unless the adversary marks a Stress.</li><li>
+    <em><strong>Grappling:</strong></em> On a successful attack, you can spend a Focus to make the target temporarily Restrained.</li><li>
+    <em><strong>Steady:</strong></em> Gain a -1 penalty to your Evasion. When you deal damage on a successful attack, roll an additional damage die and drop the lowest.</li><li>
+    <em><strong>Precise:</strong></em> Gain a +1 bonus to your attack rolls.</li><li>
+    <em><strong>Quick:</strong></em> When making an attack roll, spend a Focus to include an additional target within range.</li><ul></p>
+    <p><em><strong> Tier 2</strong></em>:</p>
+    <ul class="og-list-disc"><li><em><strong>Deadly:</strong></em> When you deal Severe damage, the target marks an additional HP.</li><li>
+    <em><strong>Hindering:</strong></em> On a successful attack, you can spend a Focus to make the target temporarily Hindered. While Hindered, their attack rolls have a -2 penalty.</li><li>
+    <em><strong>Invigorating:</strong></em> When you make a successful attack, roll a d4. On a 4, gain a Focus.</li><li>
+    <em><strong>Immovable:</strong></em> Gain a +2 bonus to your damage thresholds and you cannot be moved unwillingly.</li><li>
+    <em><strong>Nimble:</strong></em> When an adversary makes a successful attack roll against you, you can spend a number of Focus up to your Tier. Roll a number of d6s equal to 1 + the Focus spent. If any of the dice values match, you take no damage from the attack.</li><li>
+    <em><strong>Otherworldly:</strong></em> You can choose whether to do Physical or Magic damage.</li><li>
+    <em><strong>Scary:</strong></em> Successful attacks also force the target to mark a Stress.</li></ul>
+    <p><em><strong> Tier 3</strong></em>:</p>
+    <ul class="og-list-disc"><li><em><strong>Deflecting:</strong></em> When you are targeted by an attack, you can spend 2 Focus to gain a bonus to your Evasion equal to your Armor Score against the attack.</li><li
+    <em><strong>Devastating:</strong></em> Spend a Focus before your attack roll to use d20s as your damage dice instead.</li><li>
+    <em><strong>Dueling:</strong></em> Gain advantage on attack rolls when there are no other adversaries or allies in Very Close range of you or your target.</li><li>
+    <em><strong>Compounding:</strong></em> When you roll the maximum value on a Combo Die, increase the size of the subsequent Combo Dice you roll for the attack (at a maximum of d12s).</li><li>
+    <em><strong>Inexorable:</strong></em> Attacks against you have disadvantage if you have more than two adversaries within Melee of you.</li><li>
+    <em><strong>Favored:</strong></em> Add the trait of your choice to your damage roll.</li><li>
+    <em><strong>Sheltering:</strong></em> When you mark an Armor Slot, it reduces damage for you and all allies within Melee range of you who took the same damage.</li></ul>
+    <p><em><strong> Tier 4</strong></em>:</p>
+    <ul class="og-list-disc"><li><em><strong>Crushing:</strong></em> When you roll a 1 on a damage die, it can be treated as the highest value on the die instead.</li><li>
+    <em><strong>Infuriating:</strong></em> On a successful attack, the target becomes Furious. While Furious, they are Vulnerable and have a -2 penalty to their attack rolls. They can only clear Furious by succeeding on an attack against you.</li><li>
+    <em><strong>Sweeping:</strong></em> Your attack targets all adversaries within Very Close range. Deal half damage to all targets you succeed against.</li><li>
+    <em><strong>Discerning:</strong></em> You may choose the target of your attack after making your attack roll. The GM will tell you who the attack would succeed against.</li></ul></p>
+  category: ''
+  rarity: ''
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7.1
+  modifiedTime: 1753610580000
+  lastModifiedBy: XpL8vQw2ZMn3RbK5
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 4
+_key: '!items!QxjvLwT5Sn8Ke42b'

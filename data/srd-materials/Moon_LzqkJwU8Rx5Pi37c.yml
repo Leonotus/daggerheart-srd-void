@@ -1,0 +1,46 @@
+name: Moon
+type: subclass
+folder: oOPjrB7U160kSlB9
+_id: LzqkJwU8Rx5Pi37c
+img: icons/svg/moon.svg
+system:
+  description: >-
+    <h6>Spellcast Trait</h6>
+    <p>Instinct</p><h6>Foundation Features</h6><p><em><strong>Nightwatcher:</strong></em> When you are in moonlight, you have a +1 bonus to your Spellcast Rolls.</p>
+    <p><em><strong>Ire of Pale Light:</strong></em> When a creature within Far range that you have cursed with your Hex fails an attack roll, they must mark a Stress.</p>
+    <h6>Specialization Features</h6><p><em><strong>Moonglow:</strong></em> Mark a Stress to Glamour yourself and create a magical facade over your form.
+     Your Glamour automatically drops the next time you take damage or at your next rest. While Glamoured you can:</p>
+     <ul class="og-list-disc"><li>Take the form of any creature of your approximate size that you’ve seen.</li><li>
+     Enhance your own appearance. Gain advantage on Presence Rolls that leverage this change to its purpose.</li></ul>
+    <h6>Mastery Features</h6><p><em><strong>Lunar Phases:</strong></em> During a long rest, instead of Communing, you can roll your Communion Dice to alter your form. 
+    If any of the dice have matching values, reference the chart below for the effect.
+     If you have multiple matches, choose one. If none match, choose a different downtime action. The effects last until your next rest.</p>
+     <ul class="og-list-disc"><li>5-6: Eclipse - Gain a +1 bonus to your Evasion.</li><li>
+     2-4: Waxing - Gain a +2 bonus to all damage rolls.</li><li>
+     1-2: Waning - You can always spend a Hope to reduce Minor damage to None.</li></ul>
+     
+  category: ''
+  rarity: ''
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7.1
+  modifiedTime: 1751776752202
+  lastModifiedBy: XpL8vQw2ZMn3RbK5
+
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 4
+_key: '!items!LzqkJwU8Rx5Pi37c'

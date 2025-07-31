@@ -1,0 +1,44 @@
+name: Brawler
+type: class
+folder: WpN6W0wyYE3XeeYu
+img: icons/svg/fist.svg
+system:
+  description: >-
+    <p>Experts in unarmed combat, brawlers hone their bodies into lethal weapons using impressive physical prowess. <span
+    class="og-omit">Whether they learned in a structured school environment or picked up their skills one fight at a time, the process is always rigorous, with brawlers developing their body and mind to work as one.</span></p><p><span
+    class="og-omit"><strong>Starting</strong></span><strong> Evasion:</strong>
+    10</p><p><span class="og-omit"><strong>Starting</strong></span><strong> Hit
+    Points:</strong> 6</p><p><strong>Class Items:</strong> Hand wraps from a mentor or a book about your secret hobby</p><h4 class="h6">Brawler's Hope
+    Feature</h4><p><em><strong>Staggering Strike:</strong></em> Spend 3 Hope when you hit an adversary to also deal them a Stress and make them temporarily Staggered. While Staggered, all attack rolls they make are at disadvantage.
+    </p><h4 class="h6">Class Features:</h4><p>I am the Weapon: While you don’t have any equipped weapons:</p><ul><il>
+    Your Evasion has a +1 bonus.</il><il>
+    Your unarmed strikes are considered a Melee weapon, use the trait of your choice, and deal d10+d6 phy damage. Both dice scale with your Proficiency.</il></ul></p>
+    <p><em><strong>Combo Strikes:</strong></em> After making a damage roll with a Melee weapon but before dealing that damage to the target, mark a Stress to start a combo strike. When you do, roll a Combo Die and note its value.
+     Then, roll another Combo Die again. If the value of the second die is equal to or greater than your first Combo Die, continue rolling until the latest Combo Die’s roll is less than the roll that preceeded it. 
+     Total all rolled values and add that amount to your weapon’s damage. These values cannot be adjusted by features that affect damage dice.</p>
+    <p>Your Combo Die starts as a d4. When you level up, once per tier you may use one of your advancement options to increase your Combo Die instead.</p>
+  category: ''
+  rarity: ''
+  location: class
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7.1
+  modifiedTime: 1753610580000
+  lastModifiedBy: XpL8vQw2ZMn3RbK5
+_id: VbR2xQe8LmNp4YcS
+sort: 0
+ownership:
+  default: 0
+  XpL8vQw2ZMn3RbK5: 4
+_key: '!items!VbR2xQe8LmNp4YcS'
